@@ -1,0 +1,28 @@
+body {
+	background-image: url('orange.jpg');
+	font-family: sans-serif;
+}
+
+
+#mySelf {
+	width: 150px;
+	height: 150px;
+	margin-left: 46%;
+	border-style: solid;
+}
+
+#name {
+	margin-left: 46%;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+  background-color: #808080;
+}
